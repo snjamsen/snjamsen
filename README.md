@@ -2,4 +2,4 @@
 - 👋 Welcome to my github profile!
 - 👀 In this repository you can find my pet projects and parts of the code I'm testing.
 - 🌱 Curently in love with JS.
-- 📫 How to reach me? Just write: yiann.sky@gmail.com
+- 📫 Hit me by mail: yiann.sky@gmail.com
